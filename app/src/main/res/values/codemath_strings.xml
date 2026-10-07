@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cm_title">CodeMath</string>
+    <string name="cm_subtitle">Tip Calculator</string>
+    <string name="cm_description">Enter your bill and tip percentage to calculate the tip and total.</string>
+    <string name="cm_bill_label">Bill amount ($)</string>
+    <string name="cm_bill_hint">Example: 50.00</string>
+    <string name="cm_tip_label">Tip percentage (%)</string>
+    <string name="cm_tip_hint">Example: 15</string>
+    <string name="cm_default_tip">15</string>
+    <string name="cm_calculate">Calculate</string>
+    <string name="cm_results">Your results</string>
+    <string name="cm_tip_amount_label">Tip amount</string>
+    <string name="cm_total_label">Total bill including tip</string>
+    <string name="cm_pending">Not calculated</string>
+    <string name="cm_note">Use a decimal point, without dollar or percent symbols. Tips are rounded to the nearest cent.</string>
+    <string name="cm_bill_error">Enter a bill of 0 or more with up to 2 decimal places.</string>
+    <string name="cm_tip_error">Enter a tip percentage of 0 or more with up to 2 decimal places.</string>
+</resources>
